@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/ToWelie89/TotalRisk/master/assets/logo.png)
+![Logo](https://raw.githubusercontent.com/sonesson89/TotalRisk/master/assets/logo.png)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ npm install -g grunt-cli
 
 Clone the repo
 ```
-git clone https://github.com/ToWelie89/TotalRisk.git
+git clone https://github.com/sonesson89/TotalRisk.git
 ```
 
 Install all dependencies by running
@@ -108,7 +108,7 @@ Simply run:
 npm run publish
 ```
 
-The newly published release should then be found [here](https://github.com/ToWelie89/TotalRisk/releases/). Click on "Edit" for your new release and then choose "Publish release".
+The newly published release should then be found [here](https://github.com/sonesson89/TotalRisk/releases/). Click on "Edit" for your new release and then choose "Publish release".
 
 ## Bumping version
 
